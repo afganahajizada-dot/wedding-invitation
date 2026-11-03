@@ -1,0 +1,6 @@
+.venv/
+.streamlit/secrets.toml
+wedding_rsvp.csv
+__pycache__/
+*.pyc
+.DS_Store
